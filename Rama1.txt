@@ -1,3 +1,2 @@
+void cambioGAtoCorbata
 void nueva ram3()
-{
-}
