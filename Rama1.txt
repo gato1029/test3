@@ -2,3 +2,5 @@ void cambioGAtoCorbata
 void nueva ram3()
 
 cambio nuevo()
+
+cambioGatoNegro()
