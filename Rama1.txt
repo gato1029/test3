@@ -4,3 +4,5 @@ void nueva ram3()
 cambio nuevo()
 
 cambioDesdeOriginal()
+
+cambioGatoNegro()
