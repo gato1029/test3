@@ -6,3 +6,4 @@ cambio nuevo()
 cambioDesdeOriginal()
 
 cambioGatoNegro()
+mas cambios
